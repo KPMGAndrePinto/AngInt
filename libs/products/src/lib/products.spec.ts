@@ -1,4 +1,3 @@
-import { exampleProducts, Product } from './products';
 
 describe('products', () => {
   it('should work', () => {
